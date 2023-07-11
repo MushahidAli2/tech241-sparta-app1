@@ -1,5 +1,5 @@
 # tech241-sparta-app
 
 
-from dev
+from dev to pluto
 

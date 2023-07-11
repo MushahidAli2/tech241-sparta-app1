@@ -1,4 +1,4 @@
 # tech241-sparta-app
 #test
 test webhook 2.0
-test ci merge push
+test ci merge push 2.0
